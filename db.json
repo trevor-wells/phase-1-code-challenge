@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Floofer",
+      "likes": 1,
+      "image": "https://images.dog.ceo/breeds/collie-border/n02106166_930.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "imageId": 1,
+      "content": "omg i love this dog so much omg omg omg"
+    }
+  ]
+}
